@@ -537,6 +537,18 @@ const Countries = () => {
     </div>
       </div>
    
+  
+
+
+    <div id="pagination">
+      <div className='flex flex-row gap-10 ml-40'>
+      <button type="button" className="bg-blue-400 text-black size-8 ">1</button>
+      <button type="button" className="bg-blue-400 text-black size-8 ">2</button>
+      <button type="button" className="bg-blue-400 text-black size-8 ">3</button>
+      <button type="button" className="bg-blue-400 text-black size-8 ">4</button>
+      <button type="button" className="bg-blue-400 text-black size-8 ">5</button>
+      </div>
+    </div>
     </div>
 
   
